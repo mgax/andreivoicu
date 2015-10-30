@@ -1,0 +1,6 @@
+title: "Andrei Voicu"
+base_url: '/andreivoicu'
+defaults:
+  - scope: {path: ""}
+    values:
+      layout: "page"
